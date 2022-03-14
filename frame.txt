@@ -1,0 +1,4 @@
+frame.txt
+
+view:
+    workspace, toolBar, menuBar
